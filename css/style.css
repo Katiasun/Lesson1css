@@ -27,9 +27,8 @@ p{
     text-decoration: line-through;
 }
 ul li:{
-    width: 10px;
-    height: 20px;
-    
+width: 10px;
+height: 20px;   
 }
 .solid {
     border: 2px solid red;
